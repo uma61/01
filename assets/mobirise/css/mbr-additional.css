@@ -1009,7 +1009,7 @@ body {
   width: 100%;
   padding: 0 2rem;
   position: relative;
-  justify-content: center;
+  justify-content: flex-end;
 }
 @media (min-width: 992px) {
   .cid-qEMtq5EuaG .navbar .menu-content-top {
