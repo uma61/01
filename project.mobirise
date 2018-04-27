@@ -1527,10 +1527,10 @@
               }
             },
             ".mbr-section-btn, .mbr-section-title": {
-              "color": "#cccccc"
+              "color": "#efefef"
             },
             "P": {
-              "color": "#ffffff"
+              "color": "#efefef"
             }
           },
           "_name": "features3",
