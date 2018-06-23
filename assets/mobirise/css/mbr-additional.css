@@ -2257,6 +2257,58 @@ body {
 .cid-qV2cNbToc9 .mbr-section-title {
   color: #2c1616;
 }
+.cid-qVMKCSSKFS {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffff66;
+}
+.cid-qVMKCSSKFS .text-content .btn-bgr {
+  z-index: 0;
+}
+.cid-qVMKCSSKFS .mbr-overlay {
+  background: linear-gradient(90deg, #d6173f, #4284df);
+}
+.cid-qVMKCSSKFS h3 {
+  color: #ffffff;
+  font-weight: 300;
+}
+.cid-qVMKCSSKFS p {
+  color: #ffffff;
+}
+.cid-qVMKCSSKFS h2 {
+  color: #ffffff;
+}
+.cid-qVMKCSSKFS .content-row {
+  flex-direction: row-reverse;
+}
+.cid-qVMKCSSKFS .text-content {
+  padding: 2rem 0rem;
+  background-color: #ffff66;
+}
+.cid-qVMKCSSKFS .mbr-section-btn {
+  margin-left: -0.8rem;
+}
+.cid-qVMKCSSKFS .media-container-row {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+@media (max-width: 767px) {
+  .cid-qVMKCSSKFS .mbr-text {
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .cid-qVMKCSSKFS .text-content {
+    margin-bottom: 2rem;
+  }
+}
+.cid-qVMKCSSKFS .mbr-section-btn,
+.cid-qVMKCSSKFS .mbr-section-title {
+  color: #2c1616;
+}
+.cid-qVMKCSSKFS P {
+  color: #2c1616;
+}
 .cid-qEN9UQzNzx {
   padding-top: 30px;
   padding-bottom: 15px;
